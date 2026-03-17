@@ -2,7 +2,7 @@
 
 I sit at the intersection of **LLM systems** and **product thinking** — I don't just build pipelines, I ask whether they're worth building.
 
-Currently: MS CS @ Northeastern Khoury (Silicon Valley) · AI Engineer @ AndOpen
+Currently: CS @ Northeastern University, Khoury College · AI Engineer 
 
 - 🔭 Working on: production LLM scoring pipelines, multi-agent content generation, and distributed systems that don't fall apart under load
 - 🌱 Exploring: agentic workflow orchestration, LLM-as-Judge evaluation, and the gap between "demo-ready" and "actually good"
