@@ -1,4 +1,4 @@
-# Hi, I'm Ziqi Yang 👋
+# Hi, I'm Odie 👋
 
 I sit at the intersection of **LLM systems** and **product thinking** — I don't just build pipelines, I ask whether they're worth building.
 
