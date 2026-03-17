@@ -1,6 +1,6 @@
 # Hi, I'm Odie 👋
 
-I sit at the intersection of **LLM systems** and **product thinking** — I don't just build pipelines, I ask whether they're worth building.
+*From idea to inference, I close the gap.*
 
 Currently: CS @ Northeastern University, Khoury College · AI Engineer 
 
