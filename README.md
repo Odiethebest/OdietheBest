@@ -31,4 +31,4 @@ Outside of work: photography nerd, aesthetics maximalist, and occasional overthi
 
 Open to: SDE internship opportunities (Summer 2026), AI infra conversations, and people who have real opinions about evaluation metrics.
 
-📬 [LinkedIn]([[https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/ziqi-y-747530316/))]) · ✉️ yang.ziqi@northeastern.edu
+📬 [LinkedIn](https://www.linkedin.com/in/ziqi-y-747530316/) · ✉️ yang.ziqi@northeastern.edu
