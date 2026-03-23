@@ -2,15 +2,14 @@
 <p align="center">CS @ Northeastern | AI Engineer | Amateur Photographer, Writer</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ziqi-y-747530316" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="http://odieyang.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="mailto:yang.ziqi@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/ziqi-y-747530316" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="http://odieyang.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-odieyang.com-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="mailto:yang.ziqi@northeastern.edu"><img src="https://img.shields.io/badge/Email-yang.ziqi2@northeastern.edu-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-<br>
 
 I build AI infrastructure and backend systems. My recent work focuses on production LLM scoring pipelines, multi-agent systems, and designing distributed microservices that scale under load.
-
-This is a comprehensive list, incorporating the technologies you use or are deeply exploring.
 
 **Languages**
 <br>
