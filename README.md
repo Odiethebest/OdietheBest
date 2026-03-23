@@ -62,6 +62,6 @@ I build AI infrastructure and backend systems. My recent work focuses on product
 
 Outside of coding, I spend my time working out, shooting photos, and writing. I'm disciplined about hitting the gym and keeping my daily macros in check, but I balance the rigid logic of engineering with literature and cinema. I write to reflect on the intersection of technology and human nature, examining how the systems we build shape the way we live. 
 
-My profile picture was taken by my ex-girlfriend at Apple Park headquarters.
+Long-time Apple enthusiast. Profile photo shot at Apple Park.
 
 **Languages:** English, 中文, 日本語 (初級), Español (Básico), Français (Débutant)
