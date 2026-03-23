@@ -1,5 +1,5 @@
 <h1 align="center">Odie Yang</h1>
-<p align="center">CS @ Northeastern | AI Engineer</p>
+<p align="center">CS @ Northeastern | AI Engineer | Amateur Photographer, Writer</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ziqi-y-747530316" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -61,7 +61,7 @@ This is a comprehensive list, incorporating the technologies you use or are deep
 
 ### A Bit More
 
-Outside of coding, I spend my time working out, shooting photos, and exploring the Bay Area. I'm pretty disciplined about hitting the gym and keeping my daily macros in check. When I'm not debugging, I'm usually finding new spots to shoot around the city. 
+Outside of coding, I spend my time working out, shooting photos, and writing. I'm disciplined about hitting the gym and keeping my daily macros in check, but I balance the rigid logic of engineering with literature and cinema. I write to reflect on the intersection of technology and human nature, examining how the systems we build shape the way we live. 
 
 My profile picture was taken by my ex-girlfriend at Apple Park headquarters.
 
