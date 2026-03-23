@@ -1,34 +1,30 @@
-# Hi, I'm Odie 👋
+# Odie Yang
 
-*From idea to inference, I close the gap.*
+From idea to inference, I close the engineering gap.
 
-Currently: CS @ Northeastern University, Khoury College · AI Engineer 
+Currently: MSCS Student @ Northeastern University (Silicon Valley) & AI Engineer
 
-- 🔭 Working on: production LLM scoring pipelines, multi-agent content generation, and distributed systems that don't fall apart under load
-- 🌱 Exploring: agentic workflow orchestration, LLM-as-Judge evaluation, and the gap between "demo-ready" and "actually good"
-- 📍 Bay Area — where the weather is mild and the opinions on AI are not
+## Current Focus
+* Building production LLM scoring pipelines and multi-agent systems, including my recent project, Pulse, for social media sentiment analysis.
+* Designing distributed systems and microservices architectures that remain resilient under heavy load.
+* Exploring agentic workflow orchestration, RAG architectures, LLM-as-Judge evaluation, and the gap between "demo-ready" and "actually good."
 
-## Spotlight Projects
-
-**[ai-writing-agent](https://github.com/OdietheBest/ai-writing-agent)** — Multi-agent pipeline (Corpus Analyzer → Writer → Evaluator) for long-form content generation. ROUGE-L + LLM-as-Judge scoring, built with LangChain and LM Studio. The evaluator disagreed with the writer more than I expected.
-
-**[Scoring Agent](https://github.com/OdietheBest/ai-writing-agent)** — Hybrid rule-based + LLM-as-Judge scoring system in n8n/Docker. Refactored the pipeline from 640 → 128 API calls per run. The tech lead had notes; the notes were fair.
-
-**[cs6650-labs](https://github.com/OdietheBest/cs6650-labs)** — Distributed e-commerce microservices for CS 6650. Load-tested at ~961 req/sec with a custom Java client at 32 threads. RabbitMQ, AWS ECS, the works.
-
-## Tech I Actually Use
-
-**Languages:** Python · Java · TypeScript · SQL  
-**AI/ML:** LangChain · n8n · OpenAI API · LLM-as-Judge · Word2Vec · Transformer fine-tuning  
-**Backend/Infra:** Spring Boot · FastAPI · Docker · AWS ECS · RabbitMQ · Supabase  
-**Currently learning:** multi-agent orchestration patterns · serving-side LLM optimization
+## Tech Stack
+* Languages: Python, Java, Go, TypeScript, SQL
+* AI & NLP: LangChain, RAG, OpenAI API, LLM-as-Judge, Word2Vec, Transformer fine-tuning
+* Backend & Infrastructure: Spring Boot, FastAPI, Docker, AWS ECS, RabbitMQ, Supabase, Microservices
 
 ## A Bit More
+I care about systems being genuinely useful rather than just technically impressive. That's why I naturally gravitate toward the product-meets-infra space—where scalable backend meets user-facing AI.
 
-I care about things being *actually useful* — not just technically impressive. That's why I ended up in the product-meets-infra space.
+Outside of work, I am a fitness enthusiast, photography nerd, aesthetics maximalist, and occasional overthinker about how people present themselves online (yes, including this README). Based in the San Francisco Bay Area.
 
-Outside of work: photography nerd, aesthetics maximalist, and occasional overthinker about how people present themselves online (yes, including this README).
+Open to: SDE internship opportunities (Summer 2026), AI infrastructure conversations, and connecting with engineers who have real opinions about evaluation metrics or distributed consensus.
 
-Open to: SDE internship opportunities (Summer 2026), AI infra conversations, and people who have real opinions about evaluation metrics.
+<details>
+<summary><b>Connect with me</b></summary>
+<br>
 
-📬 [LinkedIn](https://www.linkedin.com/in/ziqi-y-747530316/) · ✉️ yang.ziqi@northeastern.edu
+[Website](http://odieyang.com) &nbsp; | &nbsp; [LinkedIn](https://linkedin.com/in/ziqi-y-747530316)
+
+</details>
