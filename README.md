@@ -64,4 +64,4 @@ Outside of coding, I spend my time working out, shooting photos, and writing. I'
 
 Long-time Apple enthusiast. Profile photo shot at Apple Park.
 
-**Languages:** English, 中文, 日本語 (初級), Español (Básico), Français (Débutant)
+
