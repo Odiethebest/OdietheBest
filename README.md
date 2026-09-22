@@ -29,13 +29,11 @@ I build AI infrastructure and backend systems. My recent work focuses on product
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith"/>
 <img src="https://img.shields.io/badge/RAG-000000?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/LLM--as--Judge-000000?style=flat-square" alt="LLM-as-Judge"/>
 <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
 <img src="https://img.shields.io/badge/A2A-000000?style=flat-square" alt="A2A"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
 <img src="https://img.shields.io/badge/Dify-1C64F2?style=flat-square" alt="Dify"/>
 <img src="https://img.shields.io/badge/Coze-4D53E8?style=flat-square" alt="Coze"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 
 **Frameworks**
