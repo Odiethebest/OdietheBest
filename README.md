@@ -1,5 +1,12 @@
 <h1 align="center">Odie Yang</h1>
-<p align="center">AI Engineer | From Idea to Inferance
+<p align="center">AI Software Engineer | From Idea to Inferance
+
+<p align="center">
+  <a href="https://odieyang.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-odieyang.com-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 
 I build AI infrastructure and backend systems. My recent work focuses on production LLM scoring pipelines, multi-agent systems, and designing distributed microservices that scale under load.
 
