@@ -1,7 +1,7 @@
 <h1 align="center">Odie Yang</h1>
 
 <p align="center">
-  <strong>AI Software Engineer</strong> · 𝑭𝒓𝒐𝒎 𝑰𝒅𝒆𝒂 𝒕𝒐 𝑰𝒏𝒇𝒆𝒓𝒆𝒏𝒄𝒆
+  <strong>AI Engineer</strong> · 𝑭𝒓𝒐𝒎 𝑰𝒅𝒆𝒂 𝒕𝒐 𝑰𝒏𝒇𝒆𝒓𝒆𝒏𝒄𝒆
 </p>
 
 
