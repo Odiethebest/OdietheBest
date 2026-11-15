@@ -5,8 +5,7 @@
 </p>
 
 
-I build AI infrastructure and backend systems. My recent work focuses on production LLM scoring pipelines, multi-agent systems, and designing distributed microservices that scale under load. Check out what I've built at **[odieyang.com](https://odieyang.com)**.
-
+I build AI infrastructure and backend systems. My recent work focuses on production LLM scoring pipelines, multi-agent systems, and designing distributed microservices that scale under load. 
 
 **Languages**
 <br>
