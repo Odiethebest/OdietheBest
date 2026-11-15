@@ -1,13 +1,5 @@
 <h1 align="center">Odie Yang</h1>
-<p align="center">CS @ Northeastern | AI Engineer | Amateur Photographer, Writer</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ziqi-y-747530316" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="http://odieyang.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-odieyang.com-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  &nbsp;
-  <a href="mailto:odie.yang.us@gmail.com"><img src="https://img.shields.io/badge/Email-odie.yang.us@gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<p align="center">AI Engineer | From Idea to Inferance
 
 I build AI infrastructure and backend systems. My recent work focuses on production LLM scoring pipelines, multi-agent systems, and designing distributed microservices that scale under load.
 
