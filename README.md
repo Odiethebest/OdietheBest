@@ -1,5 +1,8 @@
 <h1 align="center">Odie Yang</h1>
-<p align="center">AI Software Engineer | From Idea to Inferance
+
+<p align="center">
+  <strong>AI Software Engineer</strong> · From Idea to Inference
+</p>
 
 
 I build AI infrastructure and backend systems. My recent work focuses on production LLM scoring pipelines, multi-agent systems, and designing distributed microservices that scale under load.
