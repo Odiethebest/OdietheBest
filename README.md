@@ -1,13 +1,11 @@
 <h1 align="center">Odie Yang</h1>
 
 <p align="center">
-  <strong>AI Engineer</strong> · 𝑭𝒓𝒐𝒎 𝑰𝒅𝒆𝒂 𝒕𝒐 𝑰𝒏𝒇𝒆𝒓𝒆𝒏𝒄𝒆
+  <strong>AI Engineer</strong> · 𝘍𝘳𝘰𝘮 𝘐𝘥𝘦𝘢 𝘵𝘰 𝘐𝘯𝘧𝘦𝘳𝘦𝘯𝘤𝘦
 </p>
 
 
-I build AI infrastructure and backend systems. My recent work focuses on production LLM scoring pipelines, multi-agent systems, and designing distributed microservices that scale under load.
-
-Check out what I've built at **[odieyang.com](https://odieyang.com)**.
+I build AI infrastructure and backend systems. My recent work focuses on production LLM scoring pipelines, multi-agent systems, and designing distributed microservices that scale under load. Check out what I've built at **[odieyang.com](https://odieyang.com)**.
 
 
 **Languages**
